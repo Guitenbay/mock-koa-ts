@@ -1,0 +1,20 @@
+{
+    "billingID": 456,
+    "totalPrice": 789.23,
+    "details": {
+        "fileNum": 2,
+        "files": [
+            {
+                "name": "name1.file",
+                "page": 5,
+                "type": 0
+            },
+            {
+                "name": "name2.file",
+                "page": 6,
+                "type": 0
+            }
+        ]
+    },
+    "date": "2018-10-10"
+}

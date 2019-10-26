@@ -1,0 +1,13 @@
+{
+    "id": 123,
+    "alias": "Emma",
+    "balanceID": 456,
+    "type": "deposit",
+    "value": 45.12,
+    "status": "S",
+    "balance": {
+        "available": 50.12,
+        "withdrawable": 45.12
+    },
+    "date": "2018-10-10"
+}

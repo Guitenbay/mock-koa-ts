@@ -1,4 +1,8 @@
 {
+  "/api/fullprinter/account.json": "/api/fullprinter/account",
+  "/api/fullprinter/deposit.json": "/api/fullprinter/deposit",
+  "/api/fullprinter/payment.json": "/api/fullprinter/payment",
+  "/api/fullprinter/register.json": "/api/fullprinter/register",
   "/api/test/1.json": "/api/test/1",
   "/api/test/user.json": "/api/test/user"
 }

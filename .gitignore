@@ -1,3 +1,7 @@
+routerMap.json
+
+dist/
+
 # Logs
 logs
 *.log

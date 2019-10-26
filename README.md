@@ -30,6 +30,18 @@ localhost:3000/api/test/user
 
 At last, you could get the context of `/api/test/user.json`
 
+## Question
+
+1. CORS
+
+In the `index.ts`, you can change the `origin` to make your domain be allowed
+
+```ts
+mockServer.app.use(cors({
+  origin: "http://localhost:8080"
+}));
+```
+
 ---
 
 have fun ; )
